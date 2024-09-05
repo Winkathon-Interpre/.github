@@ -3,6 +3,11 @@
 여행 공유 플랫폼
 
 
+## Demo
+
+[Demo](https://winkathon-tripee.vercel.app/)
+
+
 ## Team
 
 | 학번       | 이름                                       | 분야                                                                                                            |
