@@ -3,9 +3,7 @@
 여행 공유 플랫폼
 
 
-## Demo
-
-[Demo](https://winkathon-tripee.vercel.app/)
+## [Demo](https://winkathon-tripee.vercel.app/)
 
 
 ## Team
